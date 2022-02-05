@@ -6,7 +6,7 @@ Hi there! 👋 This is Rahul. I do web development and I'm here to contribute to
 - 💞️ I’m looking to collaborate on any big project.
 - 📫 Connect with me on LinkedIn or email me at mr.rahulnatha@gmail.com
 
-
+(Last updated: 2/5/2022)
 
 
 
