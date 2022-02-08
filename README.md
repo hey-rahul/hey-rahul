@@ -4,7 +4,7 @@ Hi there! 👋 This is Rahul. I do web development and I'm here to contribute to
 - 👀 I'm interested in programming for futuristic technology.
 - 🌱 I’m currently learning JavaScript and Python.
 - 💞️ I’m looking to collaborate on any big project.
-- 📫 Feel free to connect with me on LinkedIn or to email me at mr.rahulnatha@gmail.com or to follow me at <a href="https://www.youtube.com/channel/UC-Fl6md-bIVgAshzwqmIqVw"><img src="youtube_social_square_dark.png" height="12px"></a>
+- 📫 Feel free to connect with me on LinkedIn or to email me at mr.rahulnatha@gmail.com  <a href="https://www.youtube.com/channel/UC-Fl6md-bIVgAshzwqmIqVw"><img src="" alt="" height="12px"></a>
 
 (Last updated: 2/5/2022)
 
